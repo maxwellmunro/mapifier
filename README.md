@@ -11,7 +11,7 @@ Mind map making software using Directed Acyclic Graph data structures.
 - SDL2_gfx
 - boost-serialization
 
-# Installation
+# Build
 
 - Ensure you have g++ and build-essential / make installed (for make command)
 
