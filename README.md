@@ -10,6 +10,8 @@ Mind map making software using Directed Acyclic Graph data structures.
 
 # Installation
 
+- Ensure you have build-essential / make installed (for make command)
+
 ```bash
 cd ~
 mkdir .mind
