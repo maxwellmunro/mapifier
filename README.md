@@ -25,14 +25,14 @@ make
 
 # Keybinds
 
-Ctrl-O -> open file
-Ctrl-W -> write/save file
-Ctrl-N -> create new node
-Ctrl-S -> set selected nodes parent
-Ctrl-Backspace -> clear node
-Ctrl-C -> clear selected nodes connections
-Ctrl-A -> copy selected nodes colour
-Ctrl-Z -> paste selected nodes colour
-Ctrl-R -> give selected node random colour
-Return -> change text for selected node
-Escape -> exit typing/setting parent
+- Ctrl-O -> open file
+- Ctrl-W -> write/save file
+- Ctrl-N -> create new node
+- Ctrl-S -> set selected nodes parent
+- Ctrl-Backspace -> clear node
+- Ctrl-C -> clear selected nodes connections
+- Ctrl-A -> copy selected nodes colour
+- Ctrl-Z -> paste selected nodes colour
+- Ctrl-R -> give selected node random colour
+- Return -> change text for selected node
+- Escape -> exit typing/setting parent
